@@ -25,4 +25,14 @@ a <=> b
 end
 
 def reverse_array
-  
+array = ["phone", "tablet", "computer", "television"]
+array.sort.reverse do |a, b|
+  a <=> b
+end
+
+def kesha_maker
+array = ["Andre", "Jade", "Robbie", "Cat"].each |w|
+counter = 3 
+counter +=
+|w|.puts "$"
+end
