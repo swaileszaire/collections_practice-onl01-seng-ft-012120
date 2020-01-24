@@ -50,5 +50,5 @@ end
 
 def add_s
 array = ["Guy", "Girl", "Mother", "Father"]
-array.add do |num|
+array.add "s" do |num|
 end
