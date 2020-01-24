@@ -49,4 +49,3 @@ array.add do |num|
 end
 
 def add_s
-s
