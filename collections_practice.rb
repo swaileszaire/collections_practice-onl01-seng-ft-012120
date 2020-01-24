@@ -40,4 +40,13 @@ end
 def find_a
 array = ["Andrea", "Anthony", "Ethan", "Agnis"]
 array.find do |word|
-  find.delete_if == < A
+  find.delete_if == < "a"
+end
+
+def sum_array
+array [1, 2, 3, 4, 5, 6, 7]
+array.add do |num|
+end
+
+def add_s
+s
