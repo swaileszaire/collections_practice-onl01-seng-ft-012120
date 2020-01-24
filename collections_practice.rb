@@ -40,4 +40,4 @@ end
 def find_a
 array = ["Andrea", "Anthony", "Ethan", "Agnis"]
 array.find do |word|
-  find
+  find.delete_if == 
