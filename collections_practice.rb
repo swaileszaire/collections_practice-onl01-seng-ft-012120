@@ -34,5 +34,9 @@ def kesha_maker
 array = ["Andre", "Jade", "Robbie", "Cat"].each |w|
 counter = 3 
 counter +=
-|w|.puts "$"
+puts do |w| "$"
 end
+
+def find_a
+array = ["Andrea", "Anthony", "Ethan", "Agnis"]
+array.find do |
